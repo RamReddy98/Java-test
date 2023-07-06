@@ -1,4 +1,4 @@
-From maven:3.9.9-ibmjava-8 as builder
+From maven:3.9.3-ibmjava-8 as builder
 
 WORKDIR /app
 
